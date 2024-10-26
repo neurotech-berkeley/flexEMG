@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NT@B_AGC")(type "KiCad")(uri "C:/Users/sisom/Documents/NT@B_AGC.pretty")(options "")(descr ""))
+  (lib (name "TestPoint_1")(type "KiCad")(uri "C:/Users/sisom/Documents/TestPoint_1.pretty")(options "")(descr ""))
+  (lib (name "NT@B_AGC-backups")(type "KiCad")(uri "${KIPRJMOD}/NT@B_AGC-backups.pretty")(options "")(descr ""))
+  (lib (name "NT@BAGC")(type "KiCad")(uri "C:/Users/sisom/Documents/NT@BAGC.pretty")(options "")(descr ""))
+)
